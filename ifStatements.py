@@ -1,4 +1,3 @@
-
 number1=10 #we can give it any name, the previous examples used a as an example
 mississippi=90 #see, the name can be anything, as long as it starts with a letter
 a=91 #we can still use a
